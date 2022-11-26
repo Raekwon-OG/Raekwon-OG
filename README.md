@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Demi Odumosu
-- 👀 I’m interested in cybersecurity, machine learning and A.I
+- 👀 I’m interested in web app development, cybersecurity, machine learning and A.I
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on web app projects [MERN Stack]
 - 📫 How to reach me thefitprogrammer@icloud.com
