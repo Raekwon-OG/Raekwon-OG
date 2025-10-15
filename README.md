@@ -4,6 +4,7 @@
 - 🤝 Open to collaborating on MERN stack and Next.js projects that solve real-world problems.
 - 📫 Reach me at: thefitprogrammer@gmail.com or fill the contact form on my CMS portfolio site [tfpmedia](https://tfpmedia.webflow.io/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raekwon-og&show_icons=true)
 🛠️ Languages and Tools:
 NodeJS Express React NextJS Python Bash SSH AWS OpenAI MongoDB Mongoose SQL Prisma HTML CSS JavaScript Tailwindcss Bootstrap Git Selenium Linux vscode Nano 
 <!---
