@@ -1,3 +1,4 @@
+### Bio:
 - 👋 Hi, I'm Demi Odumosu
 - 💻 Full Stack Developer with hands-on experience building scalable web applications and automation systems.
 - 🚀 Passionate about web development, cloud technologies, cybersecurity, and AI-driven solutions.
