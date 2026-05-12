@@ -3,7 +3,7 @@
 - 💻 Full Stack Developer with hands-on experience building scalable web applications and automation systems.
 - 🚀 Passionate about web development, cloud technologies, cybersecurity, and AI-driven solutions.
 - 🤝 Open to collaborating on MERN stack and Next.js projects that solve real-world problems.
-- 📫 Reach me at: thefitprogrammer@gmail.com or fill the contact form on my CMS portfolio site [tfpmedia](https://tfpmedia.webflow.io/)
+- 📫 Reach me at: thefitprogrammer@gmail.com or fill the contact form on my portfolio site [demi](https://demilade-mu.vercel.app/)
 - 📫 [Linkedin](https://www.linkedin.com/in/demilade-odumosu/)
 
 ### 🛠️ Languages and Tools:
